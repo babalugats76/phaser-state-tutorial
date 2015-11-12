@@ -1,6 +1,5 @@
 var playState = {
 
-<<<<<<< HEAD
     create: function() {
        console.log("Adding the keyboard");
        this.keyboard = game.input.keyboard;
@@ -41,6 +40,4 @@ var playState = {
       game.state.start('win');
     }
 
-=======
->>>>>>> efb67515e92145b027687b4de984db8e2836637e
 };
